@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwalidev&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak" />
+  <img src="contributions.svg" width="495" alt="Total contributions and best day" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
