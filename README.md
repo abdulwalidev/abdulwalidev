@@ -12,6 +12,27 @@
 
 <br/>
 
+### In production with
+
+I build and run <b>counterX</b>, a point of sale, hotel, property and business management platform that works offline. It is live with:
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Riviera Resort</b><br/>4-star hotel, Naran<br/><sub>90 rooms, 50+ apartments &middot; Hotel Manager</sub></td>
+    <td width="33%" valign="top"><b>Riviera Diner</b><br/>Resort restaurant, 2 locations<br/><sub>30+ staff, 30 tables &middot; POS</sub></td>
+    <td width="33%" valign="top"><b>Umair Residencia</b><br/>E-11, Islamabad<br/><sub>120 apartments &middot; Property Manager</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>MK ROS Heights</b><br/>Multi-residence complex<br/><sub>60+ flats and shops &middot; Property Manager</sub></td>
+    <td valign="top"><b>Glimermint</b><br/>350K+ followers<br/><sub>Business Manager and website</sub></td>
+    <td valign="top"><b>Little Orbit</b><br/>Fast food, 4 branches<br/><sub>Dine-in, takeaway, delivery &middot; POS</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<br/>
+
 ### Stack
 
 <p>
@@ -60,25 +81,6 @@
       <a href="https://github.com/abdulwalidev/DSA__progress"><b>DSA__progress</b></a><br/>
       Public log of my LeetCode journey following the NeetCode roadmap.
     </td>
-  </tr>
-</table>
-
-<br/>
-
-### In production with
-
-I build and run <b>counterX</b>, a point of sale, hotel, property and business management platform that works offline. It is live with:
-
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>Riviera Resort</b><br/>4-star hotel, Naran<br/><sub>90 rooms, 50+ apartments &middot; Hotel Manager</sub></td>
-    <td width="33%" valign="top"><b>Riviera Diner</b><br/>Resort restaurant, 2 locations<br/><sub>30+ staff, 30 tables &middot; POS</sub></td>
-    <td width="33%" valign="top"><b>Umair Residencia</b><br/>E-11, Islamabad<br/><sub>120 apartments &middot; Property Manager</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>MK ROS Heights</b><br/>Multi-residence complex<br/><sub>60+ flats and shops &middot; Property Manager</sub></td>
-    <td valign="top"><b>Glimermint</b><br/>350K+ followers<br/><sub>Business Manager and website</sub></td>
-    <td valign="top"><b>Little Orbit</b><br/>Fast food<br/><sub>Dine-in, takeaway, delivery &middot; POS</sub></td>
   </tr>
 </table>
 
