@@ -41,11 +41,4 @@ I built **counterX** from scratch: the offline-first platform that runs the till
 
 ### Activity
 
-<p align="center">
-  <img src="languages.svg" width="495" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="contributions.svg" width="495" alt="Total contributions and best day" />
-</p>
-
+<img src="activity.svg" width="100%" alt="GitHub activity: contributions and languages" />
