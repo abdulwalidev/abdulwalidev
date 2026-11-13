@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=abdulwalidev&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=software%20engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=110&section=header" width="100%" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+%7C+Mobile+%7C+Systems;Shipping+products+for+real+users;Algorithms+daily%2C+no+days+off" alt="intro" />
