@@ -1,39 +1,83 @@
-<h1 align="center">Hey, I'm Abdul Walid 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=abdulwalidev&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=software%20engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+developer;I+build+apps+people+actually+use;Practising+DSA+every+day" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+%7C+Mobile+%7C+Systems;Shipping+products+for+real+users;Algorithms+daily%2C+no+days+off" alt="intro" />
 </p>
 
-## 🧑‍💻 About
-- Building web, mobile and PWA products with **TypeScript, React, Kotlin and Supabase**
-- Strengthening my fundamentals with **C++** and daily **data structures & algorithms**
-- Making tools for students and small businesses: learning platforms, campus apps, management systems
-- Always shipping something new
+```ts
+const abdulwalidev = {
+  focus:    ["full-stack web", "android", "pwa", "systems in c++"],
+  stack:    ["TypeScript", "React", "Kotlin", "Node.js", "Supabase", "C++"],
+  building: ["point-of-sale and hotel systems", "campus tools", "learning platforms"],
+  habit:    "solve and write up DSA problems every single day",
+  status:   "shipping",
+};
+```
 
-## 🛠️ Tech stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
-## 🚀 Featured projects
-| Project | What it is |
-|---|---|
-| [algovista](https://github.com/abdulwalidev/algovista) | Visual algorithm learning platform with interactive animations and step-by-step execution |
-| [Lawlingo](https://github.com/abdulwalidev/Lawlingo) | Study platform that helps law students learn through practice instead of pure theory |
-| [Chess](https://github.com/abdulwalidev/Chess) | Complete chess game in C++, first CLI, then GUI |
-| [DSA__progress](https://github.com/abdulwalidev/DSA__progress) | My LeetCode journey following the NeetCode roadmap |
-| [Compressor-Decompressor](https://github.com/abdulwalidev/Compressor-Decompressor) | File compression and decompression in C++ |
-| [pharmacy_app_supabase](https://github.com/abdulwalidev/pharmacy_app_supabase) | Pharmacy management system with API, database and web UI |
-| [ICT-Event-Managment](https://github.com/abdulwalidev/ICT-Event-Managment) | University event hosting and ticketing |
+### Stack
 
-## 📊 GitHub stats
+<p>
+  <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+<br/>
+
+### Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/abdulwalidev/algovista"><b>algovista</b></a><br/>
+      Visual algorithm learning platform. Interactive animations, multi-language examples, step-by-step execution.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/abdulwalidev/Lawlingo"><b>Lawlingo</b></a><br/>
+      Study platform that turns heavy law theory into practice for university students.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/abdulwalidev/Chess"><b>Chess</b></a><br/>
+      Full chess engine in C++, built as a CLI first, then given a GUI.
+    </td>
+    <td valign="top">
+      <a href="https://github.com/abdulwalidev/Compressor-Decompressor"><b>Compressor-Decompressor</b></a><br/>
+      File compression and decompression in C++.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/abdulwalidev/pharmacy_app_supabase"><b>pharmacy_app_supabase</b></a><br/>
+      Pharmacy management system: SQL schema, Node and Express API, browser UI.
+    </td>
+    <td valign="top">
+      <a href="https://github.com/abdulwalidev/DSA__progress"><b>DSA__progress</b></a><br/>
+      Public log of my LeetCode journey following the NeetCode roadmap.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Activity
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulwalidev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwalidev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulwalidev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwalidev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwalidev&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
