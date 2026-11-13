@@ -8,7 +8,7 @@
 
 ### In production with
 
-I build and run **counterX**, an offline-first platform for point of sale, hotels, properties and business management.
+I built **counterX** from scratch: the offline-first platform that runs the tills, front desks and rent rolls of hotels, restaurants and residential complexes across Pakistan. It keeps selling when the internet doesn't.
 
 | Client | Business | Product |
 |:--|:--|:--|
@@ -23,15 +23,7 @@ I build and run **counterX**, an offline-first platform for point of sale, hotel
 
 ### Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-  <img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
+<img src="stack.svg" alt="TypeScript, Java, Next.js, NestJS, Kotlin, Supabase, Git" />
 
 <br/>
 
