@@ -14,37 +14,22 @@
 
 ### In production with
 
-I build and run <b>counterX</b>, a point of sale, hotel, property and business management platform that works offline. It is live with:
+<p>I build and run <b>counterX</b>, an offline-first platform for point of sale, hotels, properties and business management. It is live with:</p>
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>Riviera Resort</b><br/>4-star hotel, Naran<br/><sub>90 rooms, 50+ apartments &middot; Hotel Manager</sub></td>
-    <td width="33%" valign="top"><b>Riviera Diner</b><br/>Resort restaurant, 2 locations<br/><sub>30+ staff, 30 tables &middot; POS</sub></td>
-    <td width="33%" valign="top"><b>Umair Residencia</b><br/>E-11, Islamabad<br/><sub>120 apartments &middot; Property Manager</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>MK ROS Heights</b><br/>Multi-residence complex<br/><sub>60+ flats and shops &middot; Property Manager</sub></td>
-    <td valign="top"><b>Glimermint</b><br/>350K+ followers<br/><sub>Business Manager and website</sub></td>
-    <td valign="top"><b>Little Orbit</b><br/>Fast food, 4 branches<br/><sub>Dine-in, takeaway, delivery &middot; POS</sub></td>
-  </tr>
-</table>
-
-<br/>
+<img src="clients.svg" width="100%" alt="Businesses running counterX" />
 
 <br/>
 
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 <br/>
