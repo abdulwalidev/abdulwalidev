@@ -89,8 +89,7 @@ I build and run <b>counterX</b>, a point of sale, hotel, property and business m
 ### Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulwalidev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwalidev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="languages" />
+  <img src="languages.svg" width="495" alt="Top languages" />
 </p>
 
 <p align="center">
