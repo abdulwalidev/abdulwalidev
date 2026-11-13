@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=110&section=header" width="100%" alt="header" />
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+%7C+Mobile+%7C+Systems;Shipping+products+for+real+users;Algorithms+daily%2C+no+days+off" alt="intro" />
 </p>
@@ -14,9 +12,16 @@
 
 ### In production with
 
-<p>I build and run <b>counterX</b>, an offline-first platform for point of sale, hotels, properties and business management. It is live with:</p>
+I build and run **counterX**, an offline-first platform for point of sale, hotels, properties and business management.
 
-<img src="clients.svg" width="100%" alt="Businesses running counterX" />
+| Client | Business | Product |
+|:--|:--|:--|
+| Riviera Resort | 4-star hotel, Naran. 90 rooms, 50+ apartments | Hotel Manager |
+| Riviera Diner | Resort restaurant, 2 locations, 30 tables | POS |
+| Umair Residencia | E-11, Islamabad. 120 apartments | Property Manager |
+| MK ROS Heights | Multi-residence complex. 60+ flats and shops | Property Manager |
+| Glimermint | 350K+ followers | Business Manager and website |
+| Little Orbit | Fast food, 4 branches | POS |
 
 <br/>
 
@@ -36,38 +41,13 @@
 
 ### Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/abdulwalidev/algovista"><b>algovista</b></a><br/>
-      Visual algorithm learning platform. Interactive animations, multi-language examples, step-by-step execution.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/abdulwalidev/Lawlingo"><b>Lawlingo</b></a><br/>
-      Study platform that turns heavy law theory into practice for university students.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/abdulwalidev/Chess"><b>Chess</b></a><br/>
-      Full chess engine in C++, built as a CLI first, then given a GUI.
-    </td>
-    <td valign="top">
-      <a href="https://github.com/abdulwalidev/Compressor-Decompressor"><b>Compressor-Decompressor</b></a><br/>
-      File compression and decompression in C++.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/abdulwalidev/pharmacy_app_supabase"><b>pharmacy_app_supabase</b></a><br/>
-      Pharmacy management system: SQL schema, Node and Express API, browser UI.
-    </td>
-    <td valign="top">
-      <a href="https://github.com/abdulwalidev/DSA__progress"><b>DSA__progress</b></a><br/>
-      Public log of my LeetCode journey following the NeetCode roadmap.
-    </td>
-  </tr>
-</table>
+| Project | What it is | Commits |
+|:--|:--|--:|
+| **counterX** | Point of sale, hotel and property management platform, running in production | 1,300+ |
+| [**Accounting-riviera**](https://github.com/abdulwalidev/Accounting-riviera) | Accounting system built for Riviera | 620+ |
+| [**spdump**](https://github.com/abdulwalidev/spdump) | Web app and supporting files | 95+ |
+| [**algovista**](https://github.com/abdulwalidev/algovista) | Visual algorithm learning platform with interactive step-by-step animations | 70+ |
+| [**DSA__progress**](https://github.com/abdulwalidev/DSA__progress) | Public LeetCode log following the NeetCode roadmap | 60+ |
 
 <br/>
 
@@ -81,4 +61,3 @@
   <img src="contributions.svg" width="495" alt="Total contributions and best day" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
