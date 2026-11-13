@@ -4,15 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+%7C+Mobile+%7C+Systems;Shipping+products+for+real+users;Algorithms+daily%2C+no+days+off" alt="intro" />
 </p>
 
-```ts
-const abdulwalidev = {
-  focus:    ["full-stack web", "android", "pwa", "systems in c++"],
-  stack:    ["TypeScript", "React", "Kotlin", "Node.js", "Supabase", "C++"],
-  building: ["point-of-sale and hotel systems", "campus tools", "learning platforms"],
-  habit:    "solve and write up DSA problems every single day",
-  status:   "shipping",
-};
-```
+<p align="center">
+  I build full-stack web apps, Android apps and PWAs, and I go deep on systems work in C++.<br/>
+  Currently working on point-of-sale and hotel management software, campus tools and learning platforms.<br/>
+  I solve and document data structures and algorithms problems every day.
+</p>
 
 <br/>
 
